@@ -15,7 +15,7 @@ public:
     void next();
 
     void setBRule(std::void<size_t> rule);
-    void setDRule(std::void<size_t> rule);
+    void setSRule(std::void<size_t> rule);
 
 private:
     bool _toroid_mode;
